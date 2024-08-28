@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="28">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"常用指令"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"迷宫层数"</Description>
+          <LastState Value="28" RealAddress="0235F27A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>3C2</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"金钱（最大65535）"</Description>
+          <LastState Value="52620" RealAddress="0235F2C6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>40E</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>46</ID>
+          <Description>"建筑物完成期限（1下周完成）"</Description>
+          <LastState Value="1" RealAddress="0235F2F0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>438</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"后宫（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F2F4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>43C</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"征收（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F2F8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>440</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"出征（1未使用过）（不建议开启）"</Description>
+          <LastState Value="1" RealAddress="0235F2FC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>444</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"商人（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F2FE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>446</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"探索（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F300"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>448</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"山本五十六怀孕（4怀孕）"</Description>
+          <LastState Value="4" RealAddress="0235F31A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>462</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"战斗剩余回合数"</Description>
+          <LastState Value="5" RealAddress="0235F36C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>4B4</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"不足部下补充（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F406"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>54E</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"谈话（1未使用过）"</Description>
+          <LastState Value="1" RealAddress="0235F408"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>System39.exe+95094</Address>
+          <Offsets>
+            <Offset>550</Offset>
+            <Offset>4</Offset>
+            <Offset>B38C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"部下状态"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>66</ID>
+              <Description>"兰斯状态（1空闲，0无此人，2出征未归）"</Description>
+              <LastState Value="1" RealAddress="0242F1A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7BA</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"希露状态（同上）"</Description>
+              <LastState Value="1" RealAddress="0242F1A4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7BC</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"巴温德状态"</Description>
+              <LastState Value="0" RealAddress="0242F1A6"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7BE</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"索尔状态"</Description>
+              <LastState Value="1" RealAddress="0242F1A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7C0</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"蕾拉状态"</Description>
+              <LastState Value="1" RealAddress="0242F1AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7C2</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"巴雷斯状态"</Description>
+              <LastState Value="1" RealAddress="0242F1AC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7C4</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>72</ID>
+              <Description>"利克状态"</Description>
+              <LastState Value="1" RealAddress="0242F1AE"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7C6</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"科尔多巴状态"</Description>
+              <LastState Value="1" RealAddress="0242F1B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7C8</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"金凯特状态"</Description>
+              <LastState Value="1" RealAddress="0242F1B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7CA</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"美娜多状态"</Description>
+              <LastState Value="1" RealAddress="0242F1B4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7CC</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>76</ID>
+              <Description>"明日香状态"</Description>
+              <LastState Value="1" RealAddress="0242F1B6"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7CE</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"霍蕾恩状态"</Description>
+              <LastState Value="1" RealAddress="0242F1B8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7D0</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"魔想志津香状态"</Description>
+              <LastState Value="1" RealAddress="0242F1C2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7DA</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"萨特拉状态"</Description>
+              <LastState Value="1" RealAddress="0242F1DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7F2</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"美加拉斯状态"</Description>
+              <LastState Value="1" RealAddress="0242F1DC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7F4</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"健太郎状态"</Description>
+              <LastState Value="1" RealAddress="0242F1DE"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7F6</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>82</ID>
+              <Description>"美树状态"</Description>
+              <LastState Value="1" RealAddress="0242F1E0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>7F8</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>83</ID>
+              <Description>"甘地状态"</Description>
+              <LastState Value="1" RealAddress="0242F1EA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>System39.exe+95094</Address>
+              <Offsets>
+                <Offset>802</Offset>
+                <Offset>10</Offset>
+                <Offset>B38C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>57</ID>
+      <Description>"TADA指令（1启动）"</Description>
+      <LastState Value="0" RealAddress="0235EF2A"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>System39.exe+95094</Address>
+      <Offsets>
+        <Offset>72</Offset>
+        <Offset>4</Offset>
+        <Offset>B38C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"魔想志津香event（1兰斯帮过她）"</Description>
+      <LastState Value="0" RealAddress="0235EF42"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>System39.exe+95094</Address>
+      <Offsets>
+        <Offset>8A</Offset>
+        <Offset>4</Offset>
+        <Offset>B38C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"桃源乡记录"</Description>
+      <LastState Value="8" RealAddress="0235F082"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>System39.exe+95094</Address>
+      <Offsets>
+        <Offset>1CA</Offset>
+        <Offset>4</Offset>
+        <Offset>B38C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>56</ID>
+      <Description>"特别室内数量"</Description>
+      <LastState Value="38" RealAddress="0235F268"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>System39.exe+95094</Address>
+      <Offsets>
+        <Offset>3B0</Offset>
+        <Offset>4</Offset>
+        <Offset>B38C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
